@@ -20,3 +20,6 @@ let config = {
 
 ldapauth.authenticate(config)
 ```
+
+
+[![Build Status](https://travis-ci.org/xibitdigital/ldap-authenticate.svg?branch=master)](https://travis-ci.org/xibitdigital/ldap-authenticate)
